@@ -1,4 +1,4 @@
-# bimpi-frontend
+# Image_Recognizer
 
 ## Project setup
 ```
