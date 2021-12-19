@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <ImageRecognizer msg="Welcome to ImageRecognizer Cloud Project"/>
+    <ImageRecognizer msg="ImageRecognizer Cloud Project"/>
   </div>
 </template>
 
