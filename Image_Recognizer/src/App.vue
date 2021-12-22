@@ -20,5 +20,10 @@ export default {
   components: {
     Header,
   },
+  mounted() {
+    const recaptchaScript = document.createElement('script');
+    recaptchaScript.setAttribute('src', 'https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js');
+    document.head.appendChild(recaptchaScript);
+  },
 };
 </script>
