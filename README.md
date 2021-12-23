@@ -1,4 +1,4 @@
-# Image_Recognizer
+# image_recognizer
 
 ## Project setup
 ```

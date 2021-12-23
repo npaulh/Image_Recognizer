@@ -17,12 +17,11 @@
 
 export default {
   name: 'ImageRecognizer',
-  data() {
+  data () {
     return {
-    };
+    }
   },
-  mounted() {
-    
-  },
-};
+  mounted () {
+  }
+}
 </script>

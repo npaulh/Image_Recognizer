@@ -5,13 +5,13 @@
 </template>
 
 <script>
-import ImageRecognizer from '../components/ImageRecognizer.vue';
+import ImageRecognizer from '../components/ImageRecognizer.vue'
 // @ is an alias to /src
 
 export default {
   name: 'Home',
   components: {
-    ImageRecognizer,
-  },
-};
+    ImageRecognizer
+  }
+}
 </script>
